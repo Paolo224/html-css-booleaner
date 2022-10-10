@@ -39,3 +39,32 @@ th{
 .evidenziato{
     background-color: yellow;
 }
+.scritta-fotografie{
+    color: grey;
+    margin-top: 50px;
+    font-size: 20px;
+    margin-left: 9px;
+    font-weight: 700;
+}
+.foto1{
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 230px;
+    margin-left: 7px;
+    margin-bottom: 3px;
+    font: 22px arial serif;
+    color: white;
+}
+.foto2{
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 230px;
+    margin-left: 7px;
+    margin-bottom: 30px;
+    font: 22px arial serif;
+    color: white;
+}
+.allineamento{
+    padding-top: 15px;
+    padding-left: 10px;
+}
